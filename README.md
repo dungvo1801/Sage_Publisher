@@ -1,4 +1,4 @@
-# Sage_Publisher
+# VoNgocDung_Sage_Publisher
 1. Yêu cầu nhiệm vụ:
 Crawl dữ liệu của các tạp chí thuộc nhà xuất bản SAGE tại đường dẫn
 https://journals.sagepub.com/. Trong đó, yêu cầu lấy ra toàn bộ 1193 danh mục các tạp chí
